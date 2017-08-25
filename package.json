@@ -1,0 +1,26 @@
+{
+  "name": "@alepop/curry",
+  "version": "1.0.0",
+  "description": "A simple curry function",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alepop/curry.git"
+  },
+  "keywords": [
+    "fp",
+    "curry"
+  ],
+  "author": "Aleksey Popov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alepop/curry/issues"
+  },
+  "homepage": "https://github.com/alepop/curry#readme"
+}
