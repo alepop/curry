@@ -1,6 +1,6 @@
 {
   "name": "@alepop/curry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple curry function",
   "main": "index.js",
   "devDependencies": {
