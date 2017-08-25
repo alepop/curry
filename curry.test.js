@@ -2,7 +2,7 @@ const curry = require('./');
 
 describe('curry', () => {
 
-  it('should defined', () => {
+  it('should be defined', () => {
     expect(curry).toBeDefined();
   });
 
@@ -13,7 +13,7 @@ describe('curry', () => {
 
   it('curried function should work correctly', () => {
     const fn = curry((a, b) => a + b);
-    expect(fn(1,2)).toEqual(3);
+    expect(fn(1, 2)).toEqual(3);
     expect(fn(1)(2)).toEqual(3);
   })
 
